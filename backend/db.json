@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Oi, como voce esta?"
+    },
+    {
+      "id": 2,
+      "question": "Eai, de boa?"
+    },
+    {
+      "id": 3,
+      "question": "Nao estou muito bem, um pouco cansado"
+    },
+    {
+      "question": "Estou com dores de barriga",
+      "id": 4
+    },
+    {
+      "question": "Sim",
+      "id": 5
+    },
+    {
+      "question": "Obrigado pela ajuda",
+      "id": 6
+    }
+  ],
+  "answers": [
+    {
+      "id": 1,
+      "idQuestion": 1,
+      "answer": "Estou ótimo! E você?"
+    },
+    {
+      "id": 2,
+      "idQuestion": 2,
+      "answer": "Estou ótimo! E você?"
+    },
+    {
+      "id": 3,
+      "idQuestion": 3,
+      "answer": "O que acontece?"
+    },
+    {
+      "answer": "Está sentindo falta de vontade de fazer as coisas?",
+      "idQuestion": 4,
+      "id": 4
+    },
+    {
+      "answer": "Você pode estar com sintomas de depressão. Consulte um psicólogo e busque ajuda. Isso é um problema sério",
+      "idQuestion": 5,
+      "id": 5
+    },
+    {
+      "answer": "Não há de que",
+      "idQuestion": 6,
+      "id": 6
+    }
+  ]
+}
